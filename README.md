@@ -9,4 +9,4 @@ Belajar kelas kotlin pemula (Progress 90%)
 25 februari 
 Belajar kelas kotlin pemula (Progress 93%)
 
--aku sudah sampai tahap OOP 
+- aku sudah sampai tahap OOP 
